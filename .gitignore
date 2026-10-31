@@ -1,0 +1,9 @@
+# 本地运行产物，不入库
+classlock.cfg
+classlock.log
+classlock-start.log
+selftest.log
+
+# 打包产物：源码可重建，二进制随 exe 走
+*.zip
+ClassLock-v1.2-CUI.exe
